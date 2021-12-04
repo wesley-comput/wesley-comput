@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+[Click here to see my courses and certificates](https://github.com/wesley-comput/courses)
 
 
 
